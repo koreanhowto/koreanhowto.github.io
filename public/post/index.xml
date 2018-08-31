@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on 고통스러운 한국 웹사이트(feat. ActiveX)</title>
+    <link>https://koreanhowto.github.io/painful_korean_activex/post/</link>
+    <description>Recent content in Posts on 고통스러운 한국 웹사이트(feat. ActiveX)</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ko-kr</language>
+    
+	<atom:link href="https://koreanhowto.github.io/painful_korean_activex/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title></title>
+      <link>https://koreanhowto.github.io/painful_korean_activex/post/%EC%9D%B8%ED%84%B0%EB%84%B7%EB%93%B1%EA%B8%B0%EC%86%8C/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://koreanhowto.github.io/painful_korean_activex/post/%EC%9D%B8%ED%84%B0%EB%84%B7%EB%93%B1%EA%B8%B0%EC%86%8C/</guid>
+      <description> 인터넷 등기소의 고통 인터넷 등기소에서 오류가 뜨면 다음을 체크하자.
+ 인터넷 익스플로어를 사용중인가? 도구 &amp;gt; 인터넷 옵션 &amp;gt; 보안탭 &amp;gt; *신뢰할 수 있는 사이트*에 http://www.iros.go.kr  https도 아니고 http다 이 영역에 있는 모든 사이트에 대해 서버 확인(https:) 필요를 꼭 체크 해제   </description>
+    </item>
+    
+  </channel>
+</rss>

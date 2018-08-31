@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>https://koreanhowto.github.io/painful_korean_activex/post/%EC%9D%B8%ED%84%B0%EB%84%B7%EB%93%B1%EA%B8%B0%EC%86%8C/</loc>
+  </url>
+  
+  <url>
+    <loc>https://koreanhowto.github.io/painful_korean_activex/categories/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://koreanhowto.github.io/painful_korean_activex/post/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://koreanhowto.github.io/painful_korean_activex/tags/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://koreanhowto.github.io/painful_korean_activex/</loc>
+    <priority>0</priority>
+  </url>
+  
+</urlset>
